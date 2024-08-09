@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\daysinmonth\bin\Debug\net8.0\daysinmonth.exe
+C:\Users\admin\Desktop\Bai tap\daysinmonth\bin\Debug\net8.0\daysinmonth.deps.json
+C:\Users\admin\Desktop\Bai tap\daysinmonth\bin\Debug\net8.0\daysinmonth.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\daysinmonth\bin\Debug\net8.0\daysinmonth.dll
+C:\Users\admin\Desktop\Bai tap\daysinmonth\bin\Debug\net8.0\daysinmonth.pdb
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.dll
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\refint\daysinmonth.dll
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.pdb
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\daysinmonth.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\daysinmonth\obj\Debug\net8.0\ref\daysinmonth.dll
